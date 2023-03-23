@@ -1,0 +1,18 @@
+.App {
+  color: white;
+  background-color: #282c34;
+  width: 100vw;
+  height: 100vh;
+
+  position: relative;
+}
+
+.Controls {
+  position: absolute;
+  z-index: 2;
+}
+
+.Scene {
+  position: absolute;
+  z-index: 1;
+}
